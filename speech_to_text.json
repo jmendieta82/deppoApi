@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deft-bonsai-329617",
+  "private_key_id": "399c79bfbfe594ddb740e07b19934a87404aee6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCz6P+OESQLg3ES\n4eHAHoA53UPcRB8FJWtStOW/+vzrdQgoIMHjD+JcIuIWylOEyF2CyiBw85UogalA\nzO+VzHiBIcOTIkorsTTti3WxkY2IWZkDUpCewHabKggD41bSx2wcrTEqdJHTWkMA\n4W7Ff9DOk9nQNLJyTDF9RJWMNqaNBiakD/tRaAt6qUJalsvRWwckYeZemYWhjYFg\npzL7n9g2Nn2ytqgQZIcvmxXsq2bTHVjAMWBWfe3Xx5MS5tZ0ij3WPvts9tAdvW72\nOp1K6l92l8As+98eAHMiq7z+sLvVjukq6A+p7k9xqkHOnuW5mdGkQGcKD7S1Tu9D\nANPPrHn1AgMBAAECggEAECh2+01yzU3q0+VRny2eGpRSye+cUZwAvZbdo5ZpLMSA\nDQqUH06H5/qCD8XwJlbQfzSkIUDfPpoWl2lQg0Wv9PkRVZ+Yxb/Onx8NXPtTmNFj\nOrcpofhrLphhy+eZHqkmfpTXe5aomjDbH7MffcFzAXqp71csR7OsJjIItGUcJEIo\nKVcEYRKo3jxUHt1nJxCmzPNSlrsFZ854Z7uikXHYqvoCPxD3mM8anoo0STWMQCAz\nifxEAPfDzW6iUF5YTgMUUOIwAfp/nm6Nxoy168jUYgobVHj/6lJl2OHxweMvFVA5\nzConRLkvGd0TzcMjl2EG2LvyhdEKMlKGTOZ67SxIaQKBgQD6LghD+vKpHeHxP49c\nsCiPzg6EzXI3rDo2wuEHpSvfrOf9Prc0HLNJLxzmlpDwpt3gRyV5xdCh0I3LTzC5\nJDWGrV+zlbUqrLk9emeSQfq+sflc5yAL6bWNpajql3gGO7a5KtqR93lt+nBllvSV\nbnmvyEvSklF5sOhUb2p5MWv+xwKBgQC4GHgHA1d2rZ+iu8zOAtj2nXmWigmi6F6t\nbHOE+S+YS0GTG72/5obno+dm8inhs6pkHCdjgq6nvxhjg1AjNpwd5E4mK4YfLnbr\nPOmNUYlpfnyT33Y1WqPJ8e3q2oYr96VAmPnxnIQyqkdxzAXDnUzrlx1ooxTH9l1b\ncE1hVMh1YwKBgQCDgE637OBAJITu2gnxHmczr4vSIms2+EBhKG5AJoG5QJlwc9a4\nfZ1/ilQWoG3vEMbvbHY2W9QeOhFOHIHvzyiTce4r5zUjCUcVGZH3PtceBU6dlp8x\no9babYksRhHAtQKGsg/RSdN6C3mo7IADS96Kly3DsUVCQcrdFvNQYLnzYQKBgGnu\ncoqeiqKYr6YFaIkWrF/kJ4XPMlJSYcBrCmH2vUNl8nrC2MHm1bPO5aWgLSdZqe9n\nH+cr2HJgDJmegutwTg8JQ0rFeqzQoM8lwsJ1q5tPlEHGsQ9sc5kNpDiiu9fq7WUp\nYZF83bkFsIyzuJFiH1PlJaADTz7s7bVi/rPGBH8/AoGARs6nhSxH5JmptiYqQ3Sh\nGJJYPJCfa01OK9TGHUdFfJqTB9xNoG5Oef+Irrs/DosKEJNv8tSoYoIUfSbsMMlv\n+pSd4z9o3hqKi7ebYaScpspr7MoGk9NKQUQUPqsJ+TcvzdQPDRIuNLYhlmnVPvnM\n8I/Wd2eHIUFV/jGOTl/SgD8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text@deft-bonsai-329617.iam.gserviceaccount.com",
+  "client_id": "112899139848541346520",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text%40deft-bonsai-329617.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
