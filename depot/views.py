@@ -136,7 +136,7 @@ class ExtractJsonView(APIView):
                     f'represente un producto con dos campos: "producto" para el nombre del producto y "cantidad" para '
                     f'la cantidad en números.')
         print(question)
-        client = OpenAI(api_key='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')
+        client = OpenAI(api_key='API KEY GPT HERE')
         response_text = client.completions.create(
             model="gpt-3.5-turbo-instruct",
             prompt=question,
